@@ -6,7 +6,7 @@ subtitle: "Research assistant and doctoral candidate"
 ::: contact-info
 {{< iconify hugeicons:university >}} [Department of Romance Linguistics,
 University of Vienna](https://ucrisportal.univie.ac.at/de/persons/philippa-adolf) <br> {{< iconify entypo:address >}} Spitalgasse 2,
-Hof 8 (Campus), 1090 Wien <br> {{< iconify ic:outline-email >}}
+Hof 7 (Campus), 1090 Wien <br> {{< iconify ic:outline-email >}}
 philippa.adolf\@uni.ac.at <br> {{< iconify simple-icons:osf >}}
 [OSF](https://osf.io/wrq2a/) <br> {{< iconify mdi:github >}} GitHub <br>
 {{< iconify mdi:linkedin >}} Linkedin <br>
