@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Philippa Adolf"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: "#publications"
+        text: Publications
+      - href: "#talks"
+        text: Talks
+      - href: "#contact"
+        text: Contact
+
+format:
+  html:
+    theme: styles.scss
+    toc: false
