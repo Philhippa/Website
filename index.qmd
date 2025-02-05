@@ -11,6 +11,7 @@ philippa.adolf\@uni.ac.at <br> {{< iconify simple-icons:osf >}}
 [OSF](https://osf.io/wrq2a/) <br> {{< iconify mdi:github >}} GitHub <br>
 {{< iconify mdi:linkedin >}} Linkedin <br>
 {{< iconify academicons:researchgate-square >}} ResearchGate <br>
+{{< iconify simple-icons:orcid >}} ORCiD
 :::
 
 ## Research interests {#research-interests .section-title}
