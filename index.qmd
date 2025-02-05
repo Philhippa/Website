@@ -98,6 +98,10 @@ Workshop on statistical methods for linguists with R.
 ### Corpus of historical Portuguese
 :::
 
+::: publication-item
+### Some more cool stuffs
+:::
+
 :::
 
 ::: footer-content
